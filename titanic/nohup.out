@@ -1,0 +1,88 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 15:15:00.174 NotebookApp] 端口 8888 已经被站用, 请尝试其他端口.
+[I 15:15:00.177 NotebookApp] 启动notebooks 在本地路径: /home/wh/work/kaggle/titanic
+[I 15:15:00.177 NotebookApp] 本程序运行在: http://localhost:8889/?token=79baf3ae34fc438f3cb21ed9b4f540d8b689d7bdd40309b9
+[I 15:15:00.177 NotebookApp] 使用control-c停止此服务器并关闭所有内核(两次跳过确认).
+[C 15:15:00.178 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=79baf3ae34fc438f3cb21ed9b4f540d8b689d7bdd40309b9
+[I 15:15:00.795 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 15:15:10.062 NotebookApp] Notebook titanic.ipynb is not trusted
+[W 15:15:10.079 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20181101151500 (127.0.0.1) 6.43ms referer=http://localhost:8889/notebooks/titanic.ipynb
+[I 15:15:10.310 NotebookApp] Kernel started: 55d619d7-783f-469a-9bb4-7c9d100d36b0
+[I 15:15:10.828 NotebookApp] Adapting to protocol v5.1 for kernel 55d619d7-783f-469a-9bb4-7c9d100d36b0
+[1:1:1101/151600.597448:ERROR:webthread_impl_for_utility_thread.cc(19)] Not implemented reached in virtual blink::ThreadScheduler *blink::scheduler::WebThreadImplForUtilityThread::Scheduler() const
+[I 15:17:10.312 NotebookApp] Saving file at /titanic.ipynb
+[W 15:17:10.313 NotebookApp] Notebook titanic.ipynb is not trusted
+[I 15:19:10.314 NotebookApp] Saving file at /titanic.ipynb
+[W 15:19:10.314 NotebookApp] Notebook titanic.ipynb is not trusted
+[8367:8384:1101/152102.093522:ERROR:service_manager_context.cc(270)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[8367:8384:1101/152102.145322:ERROR:service_manager_context.cc(270)] Attempting to run unsupported native service: /opt/google/chrome/content_utility.service
+[8367:8367:1101/152742.755543:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 15:31:10.314 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/153211.143552:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 15:33:10.307 NotebookApp] Saving file at /titanic.ipynb
+[I 15:35:10.311 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/153707.809657:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 15:37:10.314 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/154230.829951:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 15:45:10.310 NotebookApp] Saving file at /titanic.ipynb
+[I 15:47:10.312 NotebookApp] Saving file at /titanic.ipynb
+[I 15:49:10.306 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/154930.702453:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 15:51:10.312 NotebookApp] Saving file at /titanic.ipynb
+[I 15:53:10.312 NotebookApp] Saving file at /titanic.ipynb
+[I 15:55:10.313 NotebookApp] Saving file at /titanic.ipynb
+[I 15:57:10.308 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/155858.411167:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 15:59:10.311 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/161258.741674:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 16:15:10.312 NotebookApp] Saving file at /titanic.ipynb
+[I 16:17:10.314 NotebookApp] Saving file at /titanic.ipynb
+[I 16:19:10.315 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/162659.061583:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 16:35:10.304 NotebookApp] Saving file at /titanic.ipynb
+[I 16:37:10.313 NotebookApp] Saving file at /titanic.ipynb
+[I 16:39:10.315 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/164059.382038:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 16:41:10.307 NotebookApp] Saving file at /titanic.ipynb
+[I 16:43:10.306 NotebookApp] Saving file at /titanic.ipynb
+[I 16:44:39.745 NotebookApp] Saving file at /titanic.ipynb
+[I 16:45:10.310 NotebookApp] Saving file at /titanic.ipynb
+[I 16:47:10.308 NotebookApp] Saving file at /titanic.ipynb
+[I 16:49:10.312 NotebookApp] Saving file at /titanic.ipynb
+[I 16:51:10.307 NotebookApp] Saving file at /titanic.ipynb
+[I 16:53:10.306 NotebookApp] Saving file at /titanic.ipynb
+[I 16:54:32.117 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/165459.713812:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 16:55:10.311 NotebookApp] Saving file at /titanic.ipynb
+[I 16:57:10.312 NotebookApp] Saving file at /titanic.ipynb
+[I 16:59:10.312 NotebookApp] Saving file at /titanic.ipynb
+[I 17:03:10.308 NotebookApp] Saving file at /titanic.ipynb
+[I 17:05:10.308 NotebookApp] Saving file at /titanic.ipynb
+[I 17:07:10.314 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/170900.032746:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 17:11:10.313 NotebookApp] Saving file at /titanic.ipynb
+[I 17:13:10.306 NotebookApp] Saving file at /titanic.ipynb
+[I 17:15:10.314 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/172300.355540:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 17:25:10.315 NotebookApp] Saving file at /titanic.ipynb
+[I 17:27:10.313 NotebookApp] Saving file at /titanic.ipynb
+[8367:8367:1101/173705.681117:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[8367:8367:1101/175105.999777:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[8367:8367:1101/180506.318761:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[8367:8367:1101/181906.636769:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[8367:8367:1101/183306.957153:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[8367:8367:1101/184707.276541:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[8367:8367:1101/190107.597156:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[8367:8367:1101/191507.917641:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[8367:8367:1101/192908.237751:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[8367:8367:1101/194308.557314:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[8367:8367:1101/195708.877105:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+[I 20:05:10.313 NotebookApp] Saving file at /titanic.ipynb
+[I 20:07:10.313 NotebookApp] Saving file at /titanic.ipynb
+[I 20:08:56.503 NotebookApp] Saving file at /titanic.ipynb
+[I 20:08:58.903 NotebookApp] Starting buffering for 55d619d7-783f-469a-9bb4-7c9d100d36b0:1e53aeb182cd44be89ac777b356b39e5
